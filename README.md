@@ -7,8 +7,8 @@ The dataset comprises lidar scans collected from a THOR-OP humanoid robot. To co
 
 <table>
   <tr>
-      <td align = "center"> <img src="Results/map1.PNG" /> </td>
-      <td align = "center"> <img src="./Results/map2.PNG" /> </td>
+      <td align = "center"> <img src="./Results/map1.png" /> </td>
+      <td align = "center"> <img src="./Results/map2.png" /> </td>
   </tr>
   <tr>
       <td align = "center"> World 1 </td>
@@ -18,8 +18,8 @@ The dataset comprises lidar scans collected from a THOR-OP humanoid robot. To co
 
 <table>
   <tr>
-      <td align = "center"> <img src="./Results/map3.PNG" /> </td>
-      <td align = "center"> <img src="./Results/map4.PNG" /> </td>
+      <td align = "center"> <img src="./Results/map3.png" /> </td>
+      <td align = "center"> <img src="./Results/map4.png" /> </td>
   </tr>
   <tr>
       <td align = "center"> World 3 </td>
