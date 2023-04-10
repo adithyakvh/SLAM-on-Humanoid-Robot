@@ -7,7 +7,7 @@ The dataset comprises lidar scans collected from a THOR-OP humanoid robot. To co
 
 <table>
   <tr>
-      <td align = "center"> <img src="./Results/map1.PNG" /> </td>
+      <td align = "center"> <img src="Results/map1.PNG" /> </td>
       <td align = "center"> <img src="./Results/map2.PNG" /> </td>
   </tr>
   <tr>
